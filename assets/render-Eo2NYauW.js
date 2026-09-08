@@ -1,1 +1,0 @@
-import{_ as e,h as t}from"./runtime-core.esm-bundler-Bzlnoy4P.js";function n(){return t()?.appContext.config.globalProperties.$q??e(`_q_`)}function r(e,t){return e===void 0?t:e()||t}function i(e,t){if(e!==void 0){let t=e();if(t!=null)return[...t]}return t}function a(e,t){return e===void 0?t:t.concat(e())}export{n as i,r as n,i as r,a as t};
